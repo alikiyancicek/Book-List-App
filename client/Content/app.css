@@ -1,5 +1,13 @@
 /* Custom CSS goes here */
 body {
   padding-bottom: 70px;
+
+  margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(220, 241, 245);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: darkslategray;
+    font-family: Arial, Helvetica, sans-serif;
   }
 
